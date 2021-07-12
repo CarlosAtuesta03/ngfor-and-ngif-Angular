@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=information2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pantalladeinicio\ here.\r\n\ \r\n\ @author\ (Carlos\ Atuesta)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=information2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PantallaDeInicio.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ detenerMusica()
+comment2.text=\r\n\ Este\ m\u00E9todo\ permite\ detener\ la\ m\u00FAsica\ de\ inicio\ del\ juego,\ \r\n\ cuando\ se\ ha\ dado\ empezado\ el\ juego.\r\n\ <b>\ Pre-Condici\u00F3n\:\ <b/>\ Ninguna\ <br>\r\n\ <b>\ Pos-Condici\u00F3n\:\ <b/>\ Detiene\ la\ m\u00FAsica\ de\ fondo\ del\ juego.\r\n\ \r\n\ (Carlos\ Atuesta)\r\n
+comment3.params=
+comment3.target=void\ musicaDeFondo()
+comment3.text=\r\n\ \ \r\n\ \r\n\ (Carlos\ Atuesta)\r\n\ \r\n\ \r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=6

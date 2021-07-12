@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemigo2
+comment1.params=
+comment1.target=void\ eliminarEnemigo()
+comment2.params=
+comment2.target=void\ hacerVolar()
+comment2.text=\r\n\ \ \ \ private\ void\ disparar()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(this.getX()<\=520){\r\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (contador\ <\=\ 0){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Disparo\ disparo\ \=\ new\ Disparo("escenario2");\ //\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ this.getWorld().addObject(disparo,\ this.getX()-10,\ this.getY());\ //\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ contador\ \=\ 125;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ contador\ --;\r\n\ \ \ \ \ \ \ \ }else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ this.getWorld().removeObject(this);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
